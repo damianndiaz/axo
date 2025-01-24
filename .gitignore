@@ -2,3 +2,4 @@
 
 # Ignorar archivo de variables de entorno
 .env
+.streamlit/secrets.toml
